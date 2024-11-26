@@ -1,0 +1,413 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Orchaestration\\Orchestration-Als\\Common.Archive.Repository\\Common.ArchiveOrchestration.Repository.csproj": {}
+  },
+  "projects": {
+    "D:\\Orchaestration\\Orchestration-Als\\Common.Archive.Repository\\Common.ArchiveOrchestration.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Orchaestration\\Orchestration-Als\\Common.Archive.Repository\\Common.ArchiveOrchestration.Repository.csproj",
+        "projectName": "Common.ArchiveOrchestration.Repository",
+        "projectPath": "D:\\Orchaestration\\Orchestration-Als\\Common.Archive.Repository\\Common.ArchiveOrchestration.Repository.csproj",
+        "packagesPath": "C:\\Users\\User1\\.nuget\\packages\\",
+        "outputPath": "D:\\Orchaestration\\Orchestration-Als\\Common.Archive.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Orchaestration\\Orchestration-Als\\Common.MicroBatch.Repository\\Common.Orchestration.Repository.csproj": {
+                "projectPath": "D:\\Orchaestration\\Orchestration-Als\\Common.MicroBatch.Repository\\Common.Orchestration.Repository.csproj"
+              },
+              "D:\\Orchaestration\\Orchestration-Als\\Common\\Common.Config\\Common.Config.csproj": {
+                "projectPath": "D:\\Orchaestration\\Orchestration-Als\\Common\\Common.Config\\Common.Config.csproj"
+              },
+              "D:\\Orchaestration\\Orchestration-Als\\common\\Common.DataAccess.MsSql\\Common.DataAccess.MsSql.csproj": {
+                "projectPath": "D:\\Orchaestration\\Orchestration-Als\\common\\Common.DataAccess.MsSql\\Common.DataAccess.MsSql.csproj"
+              },
+              "D:\\Orchaestration\\Orchestration-Als\\common\\Common.DataAccess\\Common.DataAccess.csproj": {
+                "projectPath": "D:\\Orchaestration\\Orchestration-Als\\common\\Common.DataAccess\\Common.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Orchaestration\\Orchestration-Als\\Common.MicroBatch.Repository\\Common.Orchestration.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Orchaestration\\Orchestration-Als\\Common.MicroBatch.Repository\\Common.Orchestration.Repository.csproj",
+        "projectName": "Common.Orchestration.Repository",
+        "projectPath": "D:\\Orchaestration\\Orchestration-Als\\Common.MicroBatch.Repository\\Common.Orchestration.Repository.csproj",
+        "packagesPath": "C:\\Users\\User1\\.nuget\\packages\\",
+        "outputPath": "D:\\Orchaestration\\Orchestration-Als\\Common.MicroBatch.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Orchaestration\\Orchestration-Als\\Common\\Common.Config\\Common.Config.csproj": {
+                "projectPath": "D:\\Orchaestration\\Orchestration-Als\\Common\\Common.Config\\Common.Config.csproj"
+              },
+              "D:\\Orchaestration\\Orchestration-Als\\common\\Common.DataAccess.MsSql\\Common.DataAccess.MsSql.csproj": {
+                "projectPath": "D:\\Orchaestration\\Orchestration-Als\\common\\Common.DataAccess.MsSql\\Common.DataAccess.MsSql.csproj"
+              },
+              "D:\\Orchaestration\\Orchestration-Als\\common\\Common.DataAccess\\Common.DataAccess.csproj": {
+                "projectPath": "D:\\Orchaestration\\Orchestration-Als\\common\\Common.DataAccess\\Common.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Serilog": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Orchaestration\\Orchestration-Als\\common\\Common.Config\\Common.Config.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Orchaestration\\Orchestration-Als\\common\\Common.Config\\Common.Config.csproj",
+        "projectName": "Common.Config",
+        "projectPath": "D:\\Orchaestration\\Orchestration-Als\\common\\Common.Config\\Common.Config.csproj",
+        "packagesPath": "C:\\Users\\User1\\.nuget\\packages\\",
+        "outputPath": "D:\\Orchaestration\\Orchestration-Als\\common\\Common.Config\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Orchaestration\\Orchestration-Als\\common\\Common.DataAccess.MsSql\\Common.DataAccess.MsSql.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Orchaestration\\Orchestration-Als\\common\\Common.DataAccess.MsSql\\Common.DataAccess.MsSql.csproj",
+        "projectName": "Common.DataAccess.MsSql",
+        "projectPath": "D:\\Orchaestration\\Orchestration-Als\\common\\Common.DataAccess.MsSql\\Common.DataAccess.MsSql.csproj",
+        "packagesPath": "C:\\Users\\User1\\.nuget\\packages\\",
+        "outputPath": "D:\\Orchaestration\\Orchestration-Als\\common\\Common.DataAccess.MsSql\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Orchaestration\\Orchestration-Als\\common\\Common.DataAccess.RDBMS\\Common.DataAccess.RDBMS.csproj": {
+                "projectPath": "D:\\Orchaestration\\Orchestration-Als\\common\\Common.DataAccess.RDBMS\\Common.DataAccess.RDBMS.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.30, )"
+            },
+            "EPPlus": {
+              "target": "Package",
+              "version": "[4.5.3.2, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "SqlKata": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Orchaestration\\Orchestration-Als\\common\\Common.DataAccess.RDBMS\\Common.DataAccess.RDBMS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Orchaestration\\Orchestration-Als\\common\\Common.DataAccess.RDBMS\\Common.DataAccess.RDBMS.csproj",
+        "projectName": "Common.DataAccess.RDBMS",
+        "projectPath": "D:\\Orchaestration\\Orchestration-Als\\common\\Common.DataAccess.RDBMS\\Common.DataAccess.RDBMS.csproj",
+        "packagesPath": "C:\\Users\\User1\\.nuget\\packages\\",
+        "outputPath": "D:\\Orchaestration\\Orchestration-Als\\common\\Common.DataAccess.RDBMS\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Orchaestration\\Orchestration-Als\\common\\Common.DataAccess\\Common.DataAccess.csproj": {
+                "projectPath": "D:\\Orchaestration\\Orchestration-Als\\common\\Common.DataAccess\\Common.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "SqlKata": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Orchaestration\\Orchestration-Als\\common\\Common.DataAccess\\Common.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Orchaestration\\Orchestration-Als\\common\\Common.DataAccess\\Common.DataAccess.csproj",
+        "projectName": "Common.DataAccess",
+        "projectPath": "D:\\Orchaestration\\Orchestration-Als\\common\\Common.DataAccess\\Common.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\User1\\.nuget\\packages\\",
+        "outputPath": "D:\\Orchaestration\\Orchestration-Als\\common\\Common.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\User1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "System.ComponentModel": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

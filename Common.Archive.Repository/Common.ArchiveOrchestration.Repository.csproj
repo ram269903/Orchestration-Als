@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Common.MicroBatch.Repository\Common.Orchestration.Repository.csproj" />
+    <ProjectReference Include="..\Common\Common.Config\Common.Config.csproj" />
+    <ProjectReference Include="..\common\Common.DataAccess.MsSql\Common.DataAccess.MsSql.csproj" />
+    <ProjectReference Include="..\common\Common.DataAccess\Common.DataAccess.csproj" />
+  </ItemGroup>
+
+</Project>

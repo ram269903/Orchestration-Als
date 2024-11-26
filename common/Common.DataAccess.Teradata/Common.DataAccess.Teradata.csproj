@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Teradata.Client.Provider" Version="16.20.9" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Common.DataAccess.RDBMS\Common.DataAccess.RDBMS.csproj" />
+  </ItemGroup>
+
+</Project>

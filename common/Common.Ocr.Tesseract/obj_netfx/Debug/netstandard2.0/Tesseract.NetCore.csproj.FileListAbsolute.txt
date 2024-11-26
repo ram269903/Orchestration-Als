@@ -1,0 +1,14 @@
+D:\Tesseract.NETCore-master\Tesseract.NETCore-master\Tesseract\bin\Debug\netstandard2.0\lib\x64\liblept1742.dll
+D:\Tesseract.NETCore-master\Tesseract.NETCore-master\Tesseract\bin\Debug\netstandard2.0\lib\x64\libtesseract3051.dll
+D:\Tesseract.NETCore-master\Tesseract.NETCore-master\Tesseract\bin\Debug\netstandard2.0\lib\x64\tesseract.exe
+D:\Tesseract.NETCore-master\Tesseract.NETCore-master\Tesseract\bin\Debug\netstandard2.0\lib\x86\tesseract.exe
+D:\Tesseract.NETCore-master\Tesseract.NETCore-master\Tesseract\bin\Debug\netstandard2.0\lib\x86\liblept1742.dll
+D:\Tesseract.NETCore-master\Tesseract.NETCore-master\Tesseract\bin\Debug\netstandard2.0\lib\x86\libtesseract3051.dll
+D:\Tesseract.NETCore-master\Tesseract.NETCore-master\Tesseract\bin\Debug\netstandard2.0\Tesseract.NetCore.deps.json
+D:\Tesseract.NETCore-master\Tesseract.NETCore-master\Tesseract\bin\Debug\netstandard2.0\Tesseract.NetCore.dll
+D:\Tesseract.NETCore-master\Tesseract.NETCore-master\Tesseract\bin\Debug\netstandard2.0\Tesseract.NetCore.pdb
+D:\Tesseract.NETCore-master\Tesseract.NETCore-master\Tesseract\obj_netfx\Debug\netstandard2.0\Tesseract.NetCore.csprojAssemblyReference.cache
+D:\Tesseract.NETCore-master\Tesseract.NETCore-master\Tesseract\obj_netfx\Debug\netstandard2.0\Tesseract.NetCore.csproj.CoreCompileInputs.cache
+D:\Tesseract.NETCore-master\Tesseract.NETCore-master\Tesseract\obj_netfx\Debug\netstandard2.0\Tesseract.NetCore.AssemblyInfoInputs.cache
+D:\Tesseract.NETCore-master\Tesseract.NETCore-master\Tesseract\obj_netfx\Debug\netstandard2.0\Tesseract.NetCore.dll
+D:\Tesseract.NETCore-master\Tesseract.NETCore-master\Tesseract\obj_netfx\Debug\netstandard2.0\Tesseract.NetCore.pdb

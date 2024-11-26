@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="SqlKata" Version="2.2.0" />
+    <PackageReference Include="MySql.Data" Version="8.0.19" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Common.DataAccess.RDBMS\Common.DataAccess.RDBMS.csproj" />
+    <ProjectReference Include="..\Common.DataAccess\Common.DataAccess.csproj" />
+  </ItemGroup>
+
+</Project>

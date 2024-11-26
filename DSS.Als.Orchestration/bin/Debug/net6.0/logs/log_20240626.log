@@ -1,0 +1,18 @@
+2024-06-26 18:31:54 [INFO]<1> [] Application starting up
+2024-06-26 18:31:54 [INFO]<1> [] ====================================================================
+2024-06-26 18:31:54 [INFO]<1> [] Application Starts. Version: 1.0.0.0
+2024-06-26 18:31:54 [INFO]<1> [] Application Directory: D:\Orchaestration\Orchestration-Als\DSS.Als.Orchestration\bin\Debug\net6.0\
+2024-06-26 18:33:04 [INFO]<1> [Quartz.Core.SchedulerSignalerImpl] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2024-06-26 18:33:04 [INFO]<1> [Quartz.Core.QuartzScheduler] Quartz Scheduler created
+2024-06-26 18:33:04 [INFO]<1> [Quartz.Core.QuartzScheduler] JobFactory set to: Quartz.Simpl.MicrosoftDependencyInjectionJobFactory
+2024-06-26 18:33:04 [INFO]<1> [Quartz.Simpl.RAMJobStore] RAMJobStore initialized.
+2024-06-26 18:33:04 [INFO]<1> [Quartz.Impl.StdSchedulerFactory] Quartz Scheduler 3.9.0.0 - 'QuartzScheduler' with instanceId 'NON_CLUSTERED' initialized
+2024-06-26 18:33:04 [INFO]<1> [Quartz.Impl.StdSchedulerFactory] Using thread pool 'Quartz.Simpl.DefaultThreadPool', size: 10
+2024-06-26 18:33:04 [INFO]<1> [Quartz.Impl.StdSchedulerFactory] Using job store 'Quartz.Simpl.RAMJobStore', supports persistence: False, clustered: False
+2024-06-26 18:33:04 [INFO]<1> [Quartz.ContainerConfigurationProcessor] Adding 1 jobs, 1 triggers.
+2024-06-26 18:33:04 [INFO]<1> [Quartz.ContainerConfigurationProcessor] Adding job: DEFAULT.ArchiveSchedular
+2024-06-26 18:33:04 [INFO]<10> [Quartz.Core.QuartzScheduler] Scheduler QuartzScheduler_$_NON_CLUSTERED started.
+2024-06-26 18:36:33 [INFO]<1> [] Application starting up
+2024-06-26 18:36:33 [INFO]<1> [] ====================================================================
+2024-06-26 18:36:33 [INFO]<1> [] Application Starts. Version: 1.0.0.0
+2024-06-26 18:36:33 [INFO]<1> [] Application Directory: D:\Orchaestration\Orchestration-Als\DSS.Als.Orchestration\bin\Debug\net6.0\

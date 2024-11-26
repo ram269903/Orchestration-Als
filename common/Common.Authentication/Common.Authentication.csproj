@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+  <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="5.6.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Common.ActiveDirectory\Common.ActiveDirectory.csproj" />
+    <ProjectReference Include="..\Common.Config\Common.Config.csproj" />
+    <ProjectReference Include="..\Common.DataAccess.Mongo\Common.DataAccess.Mongo.csproj" />
+    <ProjectReference Include="..\Common.DataAccess.MsSql\Common.DataAccess.MsSql.csproj" />
+    <ProjectReference Include="..\Common.DataAccess.PostgreSql\Common.DataAccess.PostgreSql.csproj" />
+    <ProjectReference Include="..\Common.DataAccess.RDBMS\Common.DataAccess.RDBMS.csproj" />
+    <ProjectReference Include="..\Common.Users\Common.Users.csproj" />
+  </ItemGroup>
+  
+</Project>

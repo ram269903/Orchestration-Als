@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "/QCAd/iGnDXINz9E56QihVxvsc9Gm093Ceuo8hzBf6yHkdlJ/Ojvcf/+wZ07uWa7s7l/IdhZPTqMWrLMv+5orQ==",
+  "success": true,
+  "projectFilePath": "D:\\Orchaestration\\Orchestration-Als\\common\\Common.DataAccess\\Common.DataAccess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User1\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\User1\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\User1\\.nuget\\packages\\system.componentmodel\\4.3.0\\system.componentmodel.4.3.0.nupkg.sha512",
+    "C:\\Users\\User1\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

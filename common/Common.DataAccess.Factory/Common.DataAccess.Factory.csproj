@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Common.DataAccess.MsSql\Common.DataAccess.MsSql.csproj" />
+    <ProjectReference Include="..\Common.DataAccess.MySql\Common.DataAccess.MySql.csproj" />
+    <ProjectReference Include="..\Common.DataAccess.PostgreSql\Common.DataAccess.PostgreSql.csproj" />
+    <ProjectReference Include="..\Common.DataAccess.RDBMS\Common.DataAccess.RDBMS.csproj" />
+    <ProjectReference Include="..\Common.DataAccess.Teradata\Common.DataAccess.Teradata.csproj" />
+  </ItemGroup>
+
+</Project>

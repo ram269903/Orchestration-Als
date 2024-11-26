@@ -1,0 +1,14 @@
+E:\Projects\PB\Common\Src\PB.Common.Ocr.Tesseract\bin\Release\netstandard2.0\lib\x64\liblept1742.dll
+E:\Projects\PB\Common\Src\PB.Common.Ocr.Tesseract\bin\Release\netstandard2.0\lib\x64\libtesseract3051.dll
+E:\Projects\PB\Common\Src\PB.Common.Ocr.Tesseract\bin\Release\netstandard2.0\lib\x64\tesseract.exe
+E:\Projects\PB\Common\Src\PB.Common.Ocr.Tesseract\bin\Release\netstandard2.0\lib\x86\tesseract.exe
+E:\Projects\PB\Common\Src\PB.Common.Ocr.Tesseract\bin\Release\netstandard2.0\lib\x86\liblept1742.dll
+E:\Projects\PB\Common\Src\PB.Common.Ocr.Tesseract\bin\Release\netstandard2.0\lib\x86\libtesseract3051.dll
+E:\Projects\PB\Common\Src\PB.Common.Ocr.Tesseract\bin\Release\netstandard2.0\PB.Common.Ocr.Tesseract.deps.json
+E:\Projects\PB\Common\Src\PB.Common.Ocr.Tesseract\bin\Release\netstandard2.0\PB.Common.Ocr.Tesseract.dll
+E:\Projects\PB\Common\Src\PB.Common.Ocr.Tesseract\bin\Release\netstandard2.0\PB.Common.Ocr.Tesseract.pdb
+E:\Projects\PB\Common\Src\PB.Common.Ocr.Tesseract\obj_netfx\Release\netstandard2.0\PB.Common.Ocr.Tesseract.csproj.CoreCompileInputs.cache
+E:\Projects\PB\Common\Src\PB.Common.Ocr.Tesseract\obj_netfx\Release\netstandard2.0\PB.Common.Ocr.Tesseract.AssemblyInfoInputs.cache
+E:\Projects\PB\Common\Src\PB.Common.Ocr.Tesseract\obj_netfx\Release\netstandard2.0\PB.Common.Ocr.Tesseract.dll
+E:\Projects\PB\Common\Src\PB.Common.Ocr.Tesseract\obj_netfx\Release\netstandard2.0\PB.Common.Ocr.Tesseract.pdb
+E:\Projects\PB\Common\Src\PB.Common.Ocr.Tesseract\obj_netfx\Release\netstandard2.0\PB.Common.Ocr.Tesseract.csprojAssemblyReference.cache
